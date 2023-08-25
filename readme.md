@@ -1,0 +1,1 @@
+This wallet is NOT production ready and only meant for development purposes. It is not recommended to use this wallet for any other activites than testing.
